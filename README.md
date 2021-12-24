@@ -34,4 +34,5 @@ python SRA_predict.py
 ```
 
 Note: All the file path in original code have been repalced by 'your path', so you should enter you file path or filename before running the code. 
+There is only partial data in the file, if you want to obtain all the data, please contact the author by email.
 Due to copyright restrictions, it can only be used for research, not for commercial use.
