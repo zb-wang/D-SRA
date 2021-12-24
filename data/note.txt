@@ -1,0 +1,3 @@
+HR: 256X128  LR: 64X32
+high frame rate(HF): 80000Hz, low frame rate(LR): 16000Hz
+NPR = 2.6
